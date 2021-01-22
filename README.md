@@ -5,8 +5,8 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me:
 - Gmail - shubamsumbria66@gmail.com
-- [LinkedIn - @shubamsumbria](https://www.linkedin.com/in/shubamsumbria/)
-- [Twitter - @SumbriaShubam](https://twitter.com/SumbriaShubam)
+- LinkedIn - [@shubamsumbria](https://www.linkedin.com/in/shubamsumbria/)
+- Twitter - [@SumbriaShubam](https://twitter.com/SumbriaShubam)
 
 ### I know bit of Machine Learning and Deep Learning.
 
