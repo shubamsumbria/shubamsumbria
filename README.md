@@ -11,11 +11,17 @@
 ### I know bit of Machine Learning and Deep Learning.
 
 ### Languages and Tools:
+<img align="left" alt="Python" width="30px"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
 
-<img align="left" alt="python" width="30px"src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>
+<img align="left" alt="Java" width="30px"
+src="https://miro.medium.com/max/1050/0*4Z6mwORGhtSAgeQ2.png"/>
 
-<img align="left" alt="Matlab" width="30px" src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/pic-header-mathworks-logo.20210112220023623.svg" />
+<img align="left" alt="python" width="30px"
+src="https://i.pinimg.com/originals/0b/84/9c/0b849c72f38362fe12072a4916660013.png"/>
 
+<img align="left" alt="MATLAB" width="30px"
+src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/>
 
 <br/>
 <br/>
