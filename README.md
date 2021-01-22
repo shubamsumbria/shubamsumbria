@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello, I'm Shubam Sumbria! 👋
 
-- 🔭 Dear Sir/Madam, I am currently pursuing Bachelor of Technology in Electical Engineering.
+- 🔭 I am currently pursuing Bachelor of Technology in Electical Engineering.
 - 🌱 I’m currently learning Data Science(Pyhton, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn and many more realted libraries).
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me:
