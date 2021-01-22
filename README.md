@@ -27,6 +27,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/>
 <br/>
 <br/>
 
-![Shubam's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=shubamsumbria66&show_icons=true)
+![Shubam's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=shubamsumbria66&show_icons=true&bg_color=151515&title_color=ffffff&text_color=daf7dc)
 
-![Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=shubamsumbria66&show_icons=true)
+![Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=shubamsumbria66&show_icons=true&bg_color=151515&title_color=ffffff&text_color=daf7dc)
