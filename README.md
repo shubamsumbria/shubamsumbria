@@ -8,6 +8,8 @@
 - LinkedIn - [@shubamsumbria](https://www.linkedin.com/in/shubamsumbria/)
 - Twitter - [@SumbriaShubam](https://twitter.com/SumbriaShubam)
 
+- Medium Profile - [@shubamsumbria](https://shubamsumbria.medium.com/)
+
 ### I know bit of Machine Learning and Deep Learning.
 
 ### Languages and Tools:
