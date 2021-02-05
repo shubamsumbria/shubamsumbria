@@ -1,8 +1,14 @@
-### Hello, I'm Shubam Sumbria! 👋
+<p  align="center"><img width="75%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></p>
+
+<h3 align="center">Hello, I'm Shubam Sumbria! 👋</a>
+
+### 📖 About me
 
 - 🔭 I am currently pursuing Bachelor of Technology in Electical Engineering.
 - 🌱 I’m currently learning Data Science(Pyhton, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn and many more realted libraries).
+- 🔑 I’m currently working on [Comparative Analysis of various Research proposals at the task of Heart Disease Prediction](https://github.com/raina-akshay/CMPR_HEART)
 - 💬 Ask me about any tech related stuff.
+- ⚡ Fun fact **I am a sneakerhead**
 - 📫 How to reach me:
 - Gmail - shubamsumbria66@gmail.com
 - LinkedIn - [@shubamsumbria](https://www.linkedin.com/in/shubamsumbria/)
