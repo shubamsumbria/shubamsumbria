@@ -16,12 +16,12 @@
 <h3 align="left">Connect with me:</h3>
 <table>
 <tr>
-<td><a href="https://medium.com/@shubamsumbria" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" alt="@shubamsumbria" height="26"/></a>
-<td><a href="https://linkedin.com/in/shubamsumbria" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612696612~hmac=0d18a935ae187600b0ab95e300ded59b" alt="shubamsumbria" height="26"/></a>
+<td><a href="https://medium.com/@shubamsumbria" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" alt="@shubamsumbria" height="23"/></a>
+<td><a href="https://linkedin.com/in/shubamsumbria" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612696612~hmac=0d18a935ae187600b0ab95e300ded59b" alt="shubamsumbria" height="23"/></a>
 <td><a href="https://twitter.com/sumbriashubam" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="sumbriashubam" height="30"/></a>
-<td><a href="https://kaggle.com/shubamsumbria" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="shubamsumbria" height="26"/></a>
-<td><a href="https://www.hackerrank.com/shubamsumbria" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="shubamsumbria" height="26"/></a>
-<td><a href="https://instagram.com/shubam_sumbria" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="shubam_sumbria" height="26"/></a>
+<td><a href="https://kaggle.com/shubamsumbria" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="shubamsumbria" height="23"/></a>
+<td><a href="https://www.hackerrank.com/shubamsumbria" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="shubamsumbria" height="23"/></a>
+<td><a href="https://instagram.com/shubam_sumbria" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="shubam_sumbria" height="23"/></a>
 </tr>
 </table>
 
