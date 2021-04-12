@@ -9,19 +9,19 @@
 - 🔑 I’m currently working on [Comparative Analysis of various Research proposals at the task of Heart Disease Prediction](https://github.com/raina-akshay/CMPR_HEART)
 - 💬 Ask me about any tech related stuff.
 - 👟 Fun fact **I am a sneakerhead**
-- 📫 How to reach me: <a href="mailto:shubamsumbria66@gmail.com" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1612699047~hmac=1652527fc0025b4bdeea6a1b6e584f90" alt="shubam_sumbria" height="20"/></a>
+- 📫 How to reach me: <a href="mailto:shubamsumbria66@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="shubam_sumbria" height="20"/></a>
 
 #### I know bit of Machine Learning and Deep Learning.
 
 <h3 align="left">Connect with me:</h3>
 <table>
 <tr>
-<td><a href="https://medium.com/@shubamsumbria" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" alt="@shubamsumbria" height="23"/></a>
-<td><a href="https://linkedin.com/in/shubamsumbria" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612696612~hmac=0d18a935ae187600b0ab95e300ded59b" alt="shubamsumbria" height="23"/></a>
-<td><a href="https://twitter.com/sumbriashubam" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="sumbriashubam" height="30"/></a>
-<td><a href="https://kaggle.com/shubamsumbria" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="shubamsumbria" height="23"/></a>
-<td><a href="https://www.hackerrank.com/shubamsumbria" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="shubamsumbria" height="23"/></a>
-<td><a href="https://instagram.com/shubam_sumbria" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="shubam_sumbria" height="23"/></a>
+<td><a href="https://medium.com/@shubamsumbria" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" alt="Medium" height="23"/></a>
+<td><a href="https://linkedin.com/in/shubamsumbria" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" height="21"/></a>
+<td><a href="https://twitter.com/sumbriashubam" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="Twitter" height="33"/></a>
+<td><a href="https://kaggle.com/shubamsumbria" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="Kaggle" height="21"/></a>
+<td><a href="https://www.hackerrank.com/shubamsumbria" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="Hackerrank" height="23"/></a>
+<td><a href="https://instagram.com/shubam_sumbria" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="Instagram" height="23"/></a>
 </tr>
 </table>
 
