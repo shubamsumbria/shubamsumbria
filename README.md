@@ -9,7 +9,7 @@
 - 🔑 I’m currently working on [Comparative Analysis of various Research proposals at the task of Heart Disease Prediction](https://github.com/raina-akshay/CMPR_HEART)
 - 💬 Ask me about any tech related stuff.
 - 👟 Fun fact **I am a sneakerhead**
-- 📫 How to reach me: <a href="mailto:shubamsumbria66@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="shubam_sumbria" height="20"/></a>
+- 📫 How to reach me: <a href="mailto:shubamsumbria66@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="shubam_sumbria" height="15"/></a>
 
 #### I know bit of Machine Learning and Deep Learning.
 
