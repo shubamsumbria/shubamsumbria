@@ -55,3 +55,7 @@
 </tr>
 </tbody>
 </table>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubamsumbria66&layout=compact&count_private=true&show_icons=true&theme=dark&card_width=260)](https://github.com/shubamsumbria66/github-readme-stats)
+
+[![Shubam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubamsumbria66&count_private=true&show_icons=true&theme=dark&card_width=10)](https://github.com/shubamsumbria66/github-readme-stats)
