@@ -55,15 +55,3 @@
 </tr>
 </tbody>
 </table>
-
-<br/>
-
-![Shubam's Github Gtats](https://github-readme-stats.codestackr.vercel.app/api?username=shubamsumbria66&show_icons=true&bg_color=151515&title_color=ffffff&text_color=daf7dc)
-
-<br/>
-
-![Shubam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubamsumbria66&theme=dark)
-
-<br/>
-
-![Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=shubamsumbria66&show_icons=true&bg_color=151515&title_color=ffffff&text_color=daf7dc)
