@@ -2,6 +2,8 @@
 
 <h3 align="center">Hello, I'm Shubam Sumbria! 👋</a>
 
+![](https://komarev.com/ghpvc/?username=shubamsumbria&color=blueviolet)
+
 ### 📖 About me
 
 - 🔭 I am currently pursuing Bachelor of Technology in Electical Engineering.
