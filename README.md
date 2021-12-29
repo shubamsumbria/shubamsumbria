@@ -7,7 +7,7 @@
 ### 📖 About me
 
 - 🔭 I am currently pursuing Bachelor of Technology in Electical Engineering.
-- 🌱 I’m currently learning Data Science(Pyhton, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn and many more realted libraries).
+- 🌱 I’m currently learning Data Science(Pyhton, SQL, Statistics, Machine Leaning and other related stuff).
 - 🔑 I’m currently working on [CoVID- 19 Detection using Cough, Breathing sounds, and other vocal samples](https://github.com/raina-akshay/covidfromcough)
 - 💬 Ask me about any tech related stuff.
 - 👟 Fun fact **I am a sneakerhead**
