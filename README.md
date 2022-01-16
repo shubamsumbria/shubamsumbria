@@ -2,7 +2,7 @@
 <h3 align="center">Hello, I'm Shubam Sumbria! 👋</a>
 
 ### 📖 About me
-- 🔭 I am currently pursuing Bachelor of Technology in Electical Engineering.
+- 🔭 I am final year Electical Engineering Undergraduate.
 - 🌱 I’m currently learning Data Science(Pyhton, SQL, Statistics, Machine Leaning and other related stuff).
 - 🔑 I’m currently working on [CoVID- 19 Detection using Cough, Breathing sounds, and other vocal samples](https://github.com/raina-akshay/covidfromcough)
 - 💬 Ask me about any tech related stuff.
@@ -65,7 +65,10 @@
     <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
   </a>
 </p>
-<p align="center">                                                                                                  
+<p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a>
   <a>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
   </a>
@@ -108,14 +111,14 @@
 </p>
 <p align="center">
   <a>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-  </a>
-  <a>
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
   </a>
   <a>
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-  </a>                                                                                                  
+  </a> 
+  <a>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+  </a>                                                                                                 
 </p> 
 
 ---   
