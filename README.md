@@ -33,7 +33,7 @@
 
 ---
 
-#### Languages:
+#### Languages and Libraries:
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
@@ -44,11 +44,13 @@
   <a>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>
-</p>  
-
----   
-
-#### Libraries:
+  <a>
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
+  </a>
+</p>
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
@@ -60,12 +62,21 @@
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   </a>                                                                                                    
   <a>
+    <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+  </a>
+</p>
+<p align="center">                                                                                                  
+  <a>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   </a>
-</p> 
+  <a>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+  </a>
+</p>
+
 
 ---  
 
@@ -73,15 +84,9 @@
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  </a>                                                                                                       
+  </a>                                                                                                      
   <a>
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white">
   </a>
   <a>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -100,23 +105,34 @@
   <a>
     <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
   </a>                                                                                                    
+</p>
+<p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+  </a>                                                                                                  
 </p> 
 
 ---   
 
-#### Kaggle
+#### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubamsumbria&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5DC" alt="Shubam GitHub Streak">
+</p>
+
+---   
+
+#### Kaggle Stats
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shubamsumbria/competition/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shubamsumbria/dataset/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shubamsumbria/notebook/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shubamsumbria/discussion/"/>
-</p>
-
----   
-
-#### GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubamsumbria&theme=tokyonight_duo&fire=00dbde&hide_border=true&stroke=00dbde&ring=00dbde&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=f2f2f2&sideLabels=f2f2f2&dates=00dbde" alt="Shubam GitHub Streak"><br>
 </p>
 
 ---
@@ -141,4 +157,4 @@
 - 
 ---
 
-#### "DO OR DO NOT. THERE IS NO TRTY."
+#### "DO OR DO NOT. THERE IS NO TRTY." - YODA
