@@ -1,8 +1,9 @@
 <p  align="center"><img width="75%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></p>
+
 <h3 align="center">Hello, I'm Shubam Sumbria! 👋</a>
 
-### 📖 About me
-- 🔭 I am final year Electical Engineering Undergraduate.
+#### 📖 About me
+- 🔭 I am final year Electrical Engineering Undergraduate.
 - 🌱 I’m currently learning Data Science(Pyhton, SQL, Statistics, Machine Leaning and other related stuff).
 - 🔑 I’m currently working on [CoVID- 19 Detection using Cough, Breathing sounds, and other vocal samples](https://github.com/raina-akshay/covidfromcough)
 - 💬 Ask me about any tech related stuff.
@@ -11,7 +12,7 @@
 
 ---
 
-<h4 align="left">Connect with me:</h4>
+<h4 align="left"> 🤝🏽 Connect with me</h4>
 <!-- Socials -->
 <p align="center">
   <a href="https://www.linkedin.com/in/shubamsumbria">
@@ -33,7 +34,7 @@
 
 ---
 
-#### Languages and Libraries:
+#### 🧑🏽‍💻 Languages and Libraries
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
@@ -83,7 +84,7 @@
 
 ---  
 
-#### IDEs and Tools:                                                                                                       
+#### ⚒️ IDEs and Tools                                                                                                       
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
@@ -140,9 +141,9 @@
 
 ---
 
-### My posts 
+### 📃 My posts 
 
-#### Kaggle
+#### 🧑🏽‍💻 Kaggle Code
 - [✨INDIA's Energy Profile from 1965 to 2019💡📈](https://www.kaggle.com/shubamsumbria/india-s-energy-profile-from-1965-to-2019)
 - [US Accidents 🚘 Exploratory Data Analysis 📈📊](https://www.kaggle.com/shubamsumbria/us-accidents-exploratory-data-analysis)
 - [Traffic Violations 🚦 Exploratory Data Analysis 🚸](https://www.kaggle.com/shubamsumbria/traffic-violations-exploratory-data-analysis)
@@ -150,14 +151,14 @@
 - [⚕️Breast Cancer Wisconsin [Diag] - EDA 📊📈](https://www.kaggle.com/shubamsumbria/breast-cancer-wisconsin-diag-eda)
 - [❤️‍🩹 Heart Disease Dataset[Statlog] - EDA 📊📉](https://www.kaggle.com/shubamsumbria/heart-disease-dataset-statlog-eda)
 - [❤️‍🩹 Heart Disease Dataset[Cleveland] - EDA 📊📈](https://www.kaggle.com/shubamsumbria/heart-disease-dataset-cleveland-eda)
-- 
-#### Medium
+
+#### 📝 Medium
 - [⚡10 INDIAN ELECTIC VEHICLE STARTUPS OF INDIA ❤️](https://shubamsumbria.medium.com/10-indian-electic-vehicle-startups-72a5cfee643e)
 - [🚦Come, Let’s Explore Traffic Violation Data 🚘📊](https://medium.com/analytics-vidhya/traffic-violation-eda-c7ee4b6fe356)
 - [⚕️Breast Cancer Wisconsin [Diag] - EDA 📊📈](https://medium.com/analytics-vidhya/breast-cancer-diagnostic-dataset-eda-fa0de80f15bd)
 - [❤️‍🩹 Heart Disease Dataset [Statlog] - EDA 📊📉](https://shubamsumbria.medium.com/statlog-eda-a08e058d4f6d)
 - [❤️‍🩹 Heart Disease Dataset [Cleveland] - EDA 📊📈](https://medium.com/analytics-vidhya/cleveland-eda-b73f0f62ebf8)
-- 
+
 ---
 
-#### "DO OR DO NOT. THERE IS NO TRTY." - YODA
+#### "DO OR DO NOT. THERE IS NO TRY." - YODA
