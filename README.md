@@ -29,9 +29,6 @@
   <a href="https://www.hackerrank.com/shubamsumbria?hr_r=1">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/shubamsumbria?hr_r=1">
   </a>
-  <a href="shubamsumbria66@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shubamsumbria66@gmail.com">
-  </a>
 </p>
 
 ---
