@@ -151,6 +151,7 @@
 - [⚕️Breast Cancer Wisconsin [Diag] - EDA 📊📈](https://www.kaggle.com/shubamsumbria/breast-cancer-wisconsin-diag-eda)
 - [❤️‍🩹 Heart Disease Dataset[Statlog] - EDA 📊📉](https://www.kaggle.com/shubamsumbria/heart-disease-dataset-statlog-eda)
 - [❤️‍🩹 Heart Disease Dataset[Cleveland] - EDA 📊📈](https://www.kaggle.com/shubamsumbria/heart-disease-dataset-cleveland-eda)
+- [✨Clustering of Salaried Employees using k-Means 🎰](https://www.kaggle.com/shubamsumbria/clustering-of-salaried-employees-using-k-means)
 
 #### 📝 Medium
 - [⚡10 INDIAN ELECTIC VEHICLE STARTUPS OF INDIA ❤️](https://shubamsumbria.medium.com/10-indian-electic-vehicle-startups-72a5cfee643e)
