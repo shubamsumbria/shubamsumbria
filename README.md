@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning Data Science(Pyhton, SQL, Statistics, Machine Leaning and other related stuff).
 - 🔑 I’m currently working on [CoVID- 19 Detection using Cough, Breathing sounds, and other vocal samples](https://github.com/raina-akshay/covidfromcough)
 - 💬 Ask me about any tech related stuff.
-- 👟 Fun fact **I am a sneakerhead**  
+- 👟 Fun fact **I am a sneakerhead**
+- 📃 My Resume [Link](https://shubamsumbria66.wixsite.com/portfolio)
 #### I know bit of Machine Learning and Deep Learning.
 
 ---
