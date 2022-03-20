@@ -5,7 +5,7 @@
 #### 📖 About me
 - 🔭 I am final year Electrical Engineering Undergraduate.
 - 🌱 I’m currently learning Data Science(Pyhton, SQL, Statistics, Machine Leaning and other related stuff).
-- 🔑 I’m currently working on [CoVID- 19 Detection using Cough, Breathing sounds, and other vocal samples](https://github.com/raina-akshay/covidfromcough)
+- 🔑 I’m currently working at Indian Institute of Technology, Jammu as Machine Learning Research Intern.
 - 💬 Ask me about any tech related stuff.
 - 👟 Fun fact **I am a sneakerhead**
 - 📃 My Resume [Link](https://shubamsumbria66.wixsite.com/portfolio)
