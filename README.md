@@ -153,6 +153,7 @@
 - [❤️‍🩹 Heart Disease Dataset[Statlog] - EDA 📊📉](https://www.kaggle.com/shubamsumbria/heart-disease-dataset-statlog-eda)
 - [❤️‍🩹 Heart Disease Dataset[Cleveland] - EDA 📊📈](https://www.kaggle.com/shubamsumbria/heart-disease-dataset-cleveland-eda)
 - [✨Clustering of Salaried Employees using k-Means 🎰](https://www.kaggle.com/shubamsumbria/clustering-of-salaried-employees-using-k-means)
+- [🚖 NYC Taxi Fare Prediction using XGBoost 🤖⚡](https://www.kaggle.com/code/shubamsumbria/nyc-taxi-fare-prediction-using-xgboost)
 
 #### 📝 Medium
 - [⚡10 INDIAN ELECTIC VEHICLE STARTUPS OF INDIA ❤️](https://shubamsumbria.medium.com/10-indian-electic-vehicle-startups-72a5cfee643e)
