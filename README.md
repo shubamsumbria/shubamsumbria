@@ -8,7 +8,7 @@
 - 🔑 I’m currently working at Indian Institute of Technology, Jammu as Machine Learning Research Intern.
 - 💬 Ask me about any tech related stuff.
 - 👟 Fun fact **I am a sneakerhead**
-- 📃 My Resume [Link](https://shubamsumbria66.wixsite.com/portfolio)
+
 #### I know bit of Machine Learning and Deep Learning.
 
 ---
