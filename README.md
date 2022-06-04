@@ -1,4 +1,4 @@
-<p  align="center"><img width="75%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></p>
+<p  align="center"><img width="100%" height="auto" src="https://github.com/shubamsumbria/shubamsumbria/blob/main/1.png" height="175px"/></p>
 
 <h3 align="center">Hello, I'm Shubam Sumbria! 👋</a>
 
@@ -163,5 +163,3 @@
 - [❤️‍🩹 Heart Disease Dataset [Cleveland] - EDA 📊📈](https://medium.com/analytics-vidhya/cleveland-eda-b73f0f62ebf8)
 
 ---
-
-#### "DO OR DO NOT. THERE IS NO TRY." - YODA
