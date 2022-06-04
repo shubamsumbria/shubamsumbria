@@ -5,7 +5,7 @@
 #### 📖 About me
 - 🔭 I am final year Electrical Engineering Undergraduate.
 - 🌱 I’m currently learning Data Science(Pyhton, SQL, Statistics, Machine Leaning and other related stuff).
-- 🔑 I’m currently working at Indian Institute of Technology, Jammu as Machine Learning Research Intern.
+- 🔑 I’m currently working at [EkoSight](https://www.ekosight.com) as AI & ML Intern.
 - 💬 Ask me about any tech related stuff.
 - 👟 Fun fact **I am a sneakerhead**
 
