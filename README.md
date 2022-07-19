@@ -2,10 +2,11 @@
 
 <h3 align="center">Hello, I'm Shubam Sumbria! 👋</a>
 
+
 #### 📖 About me
-- 🔭 I am final year Electrical Engineering Undergraduate.
+- 🔭 I am a B.Tech Graduate in Electrical Engineering
 - 🌱 I’m currently learning Data Science(Pyhton, SQL, Statistics, Machine Leaning and other related stuff).
-- 🔑 I’m currently working at [EkoSight](https://www.ekosight.com) as AI & ML Intern.
+- 🔑 I’m currently working at [EkoSight](https://www.ekosight.com) as AI & ML Intern (Language and Libraries: Python, OpenCV, Pandas, etc.).
 - 💬 Ask me about any tech related stuff.
 - 👟 Fun fact **I am a sneakerhead**
 
@@ -65,6 +66,9 @@
   </a>                                                                                                    
   <a>
     <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
   </a>
 </p>
 <p align="center">
