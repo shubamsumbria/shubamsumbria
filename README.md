@@ -6,7 +6,7 @@
 #### 📖 About me
 - 🔭 I am a B.Tech Graduate in Electrical Engineering
 - 🌱 I’m currently learning Data Science(Pyhton, SQL, Statistics, Machine Leaning and other related stuff).
-- 🔑 I’m currently working at [EkoSight](https://www.ekosight.com) as AI & ML Intern (Language and Libraries: Python, OpenCV, Pandas, etc.).
+- 🔑 I’m currently working at [EkoSight](https://www.ekosight.com) as Data Scientist (Language and Libraries: Python, OpenCV, Pandas, etc.).
 - 💬 Ask me about any tech related stuff.
 - 👟 Fun fact **I am a sneakerhead**
 
