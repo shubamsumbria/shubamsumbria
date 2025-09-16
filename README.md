@@ -1,16 +1,22 @@
 <p  align="center"><img width="100%" height="auto" src="https://github.com/shubamsumbria/shubamsumbria/blob/main/1.png" height="175px"/></p>
 
-<h3 align="center">Hello, I'm Shubam Sumbria! 👋</a>
+<h2 align="center">Hey, I'm Shubam Sumbria 👋</h2>
+<h4 align="center">Product • Ecommerce • Data • AI Tools Explorer</h4>
 
 
-#### 📖 About me
-- 🔭 I am a B.Tech Graduate in Electrical Engineering
-- 🌱 I’m currently learning Data Science(Pyhton, SQL, Statistics, Machine Leaning and other related stuff).
-- 🔑 I’m currently working at [The RARE FOOD Co.](https://www.therarefood.com)
-- 💬 Ask me about any tech related stuff.
-- 👟 Fun fact **I am a sneakerhead**
+### 📖 About Me  
+- 🚀 Product Manager with a background in **Data Analytics** and **Electrical Engineering (B.Tech)**.
+- 🧩 Experienced in building **user-centric platforms** at leading Indian startups.
+- 🛠️ Skilled at blending **strategy, analytics, and execution** to drive real impact.
+- 🌱 Currently exploring **AI-powered workflows, Vibe Coding, and No-Code tools**.
+- 👟 Sneakerhead, adventure biker, foodie & culture explorer.
 
-#### I know bit of Machine Learning and Deep Learning.
+### ⚡ Career Highlights  
+- 🔑 Currently working at **UpClass**  
+- 📊 Track record in **Product Analytics, Automation, and Digital Growth**  
+- 🌍 Passionate about building scalable products that **merge creativity + technology**  
+
+#### I know a bit of Machine Learning and Deep Learning.
 
 ---
 
